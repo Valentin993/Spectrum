@@ -131,7 +131,7 @@ export default function Home() {
                 Welcome to SPECTRUM, a vibrant cocktail bar where creativity
                 meets craft. We specialize in handcrafted cocktails made with
                 premium spirits, fresh ingredients, and a whole lot of passion.
-                Whether you're in the mood for a timeless classic or an
+                Whether you&apos;re in the mood for a timeless classic or an
                 adventurous signature mix, our bartenders are here to shake
                 things up just the way you like. With a cozy atmosphere, curated
                 music, and a welcoming vibe, SPECTRUM is the perfect spot to

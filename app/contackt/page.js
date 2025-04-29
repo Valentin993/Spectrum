@@ -15,7 +15,8 @@ export default function Contact() {
             Contact Spectrum Bar
           </h1>
           <p className="font-[Dosis] text-xl lg:text-4xl text-[#000000]/[.40]">
-            We’re excited to hear from you! Let’s chat, or visit us for a drink!
+            We&apos;re excited to hear from you! Let&apos;s chat, or visit us
+            for a drink!
           </p>
         </div>
 
